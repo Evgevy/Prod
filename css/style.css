@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .basic__name {
   font-family: "Roboto";
-  font-weight: 600;
+  font-weight: 500;
   font-size: 2.1875em;
   line-height: 125%;
   color: #FFFFFF;
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .basic__prof {
   font-family: "Roboto";
-  font-weight: 600;
+  font-weight: 500;
   font-size: 1.0625em;
   line-height: 160%;
   text-align: center;
