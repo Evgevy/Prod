@@ -1,3 +1,4 @@
+
 $(document).ready(function(){
     $(".status").click(function(){
         $(this).siblings(".aside__examp").toggleClass("aside__examp--open")
@@ -5,7 +6,6 @@ $(document).ready(function(){
         $(this).siblings(".hobbi__hobbis").toggleClass("hobbi__hobbis--open")
     })
 })
-
 
 
 $(document).ready(function () {
