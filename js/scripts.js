@@ -7,6 +7,7 @@ $(document).ready(function(){
 })
 
 
+
 $(document).ready(function () {
     $(".basic__burger").click(function(){
         $(".basic__line:nth-child(1)").toggleClass("basic__line--first")
@@ -15,7 +16,6 @@ $(document).ready(function () {
         $(".aside").toggleClass("aside--open")
     })
 })
-
 
 $(document).ready(function (){
     $(".status__title").click(function(){
